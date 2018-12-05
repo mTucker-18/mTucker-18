@@ -1,0 +1,27 @@
+:root {
+  --main-color: white;
+  --main-font: red;
+}
+
+.mainContent {
+  display: grid;
+  grid-template-columns: auto;
+  grid-template-rows: auto;
+  color: var(--main-font);
+}
+
+.navBar {
+  grid-area: 1 / 1 / 1 / 2;
+}
+
+.sectionOne {
+  grid-area: 2 / 1 / 3 / 1;
+}
+
+.sectionTwo {
+  grid-area: 2 / 2 / 3 / 2;
+}
+
+.sectionThree {
+  grid-area: 2 / 3 / 3 / 3;
+}
