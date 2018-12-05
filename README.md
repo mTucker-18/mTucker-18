@@ -1,2 +1,4 @@
-# mTucker-18
-Personal site
+# mTucker18.com
+
+## Personal Website 
+## Check Me Out!
